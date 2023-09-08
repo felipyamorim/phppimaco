@@ -1,5 +1,5 @@
 {
-  "name": "dbemfica/phppimaco",
+  "name": "joaoroyosilva/phppimaco",
   "description": "Lib para geração de Etiquetas PIMACO",
   "keywords": [
     "PIMACO",
@@ -12,6 +12,10 @@
     {
       "name": "Diogo Bemfica",
       "email": "diogo.fragabemfica@gmail.com"
+    },
+    {
+      "name": "João Gabriel",
+      "email": "joao.royosilva@gmail.com"
     }
   ],
   "autoload": {
